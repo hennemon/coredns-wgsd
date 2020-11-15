@@ -1,4 +1,4 @@
-module github.com/hennemon/wgsd
+module github.com/hennemon/coredns-wgsd
 
 go 1.14
 
