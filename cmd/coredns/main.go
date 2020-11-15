@@ -2,7 +2,7 @@ package main
 
 import (
 	_ "github.com/coredns/coredns/core/plugin"
-	_ "github.com/jwhited/wgsd"
+	_ "github.com/hennemon/coredns-wgsd"
 
 	"github.com/coredns/coredns/core/dnsserver"
 	"github.com/coredns/coredns/coremain"
